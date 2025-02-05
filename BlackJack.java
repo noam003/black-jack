@@ -2,6 +2,7 @@
 // new background (bully albert)
 // if heart, send cute message to albert
 // make an html so i can send it to him??? or he can host locally
+// SQL db of cute things about albert!!!!
 import java.awt.*; // graphics window 
 import java.awt.event.*; // listener for events
 import java.util.ArrayList; // resizeable arrays
